@@ -11,15 +11,14 @@ Music Match is a social music platform that connects people through their musica
 - **User Profiles**: Personalized profiles with favorite artists and songs
 - **Responsive Design**: Works on desktop and mobile devices
 
-## Authors
-- **Dr.Disha Wankhede**
 
 ## Authors
 
  - **Prakash Swami**
  - **Darsh Sonsale**
  - **Piyush Kanakdande**
- - **Akshita Verma**
+ - **Akshita Verma** 
+ - **Dr.Disha Wankhede**
 
 ## Tech Stack & Prerequisites
 
