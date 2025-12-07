@@ -18,7 +18,7 @@ Music Match is a social music platform that connects people through their musica
  - **Darsh Sonsale**
  - **Piyush Kanakdande**
  - **Akshita Verma** 
- - **Dr.Disha Wankhede**
+ - **Dr. Disha Wankhede** - Project Guide
 
 ## Tech Stack & Prerequisites
 
